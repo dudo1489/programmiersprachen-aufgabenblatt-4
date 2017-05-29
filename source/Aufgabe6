@@ -1,0 +1,13 @@
+sequentiell: array, vector, list, deque 
+elemente sind nach eingabe sortiert
+
+assotiativ: map, multimap, set, multiset
+map=key und value, nur 1 key vorhanden
+multimap key und value, keys können doppelt vorkommen
+elemente werden nach key sortiert
+
+polygon speichern in sequentiell
+
+farbnamen und rgb wert in assotiativem container, map 
+
+FIFO warteschlange in sequenteillem container
